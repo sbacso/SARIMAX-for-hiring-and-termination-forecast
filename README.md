@@ -1,4 +1,4 @@
-# SARIMAX-for-hiring-and-termination-forecast
+# SARIMAX-for-hiring-and-termination-forecast (2020)
 Use Seasonal Autoregressive Integrated Moving Average (ARIMA) to forecast monthly Hiring numbers or Leaving numbers (subset the data).
 
 Steps:
